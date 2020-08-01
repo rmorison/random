@@ -23,10 +23,10 @@ Still on my to-do: [[https://www.alltrails.com/trail/us/california/onion-valley-
 Professional Highlights. See [[https://www.linkedin.com/in/rodmorison][LinkedIn]] for complete list
 
 - Principal Architect: https://www.aspiration.com/
-- CTO: http://www.slated.com
-- Principal Engineer: http://www.earthlinkbusiness.com/voice/
+- CTO: https://www.slated.com
+- Principal Engineer (Earthlink Voice): https://www.earthlink.net/
 - Director of Engineering: https://www.infostreet.com/
-- CTO: https://www.idealab.com/our_companies/show/all/desktop_tv
+- CTO (Desktop.tv): https://www.idealab.com/all_companies.php
 - Dir R&D: https://www.mentor.com/tannereda/l-edit
 
 ** Key Current/Recent Reads
