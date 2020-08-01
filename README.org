@@ -1,0 +1,57 @@
+** My Background
+
+I distill complicated concepts into understandable language; I build
+uncomplicated, useful tools; I infer more plausible futures and
+continuously update my priors.
+
+My background is in Numerical Mathematics, Computational Physics, and
+Distributed Computing. I've built engineering teams, work process,
+written product source code, and architected networked systems. I love
+to know the way things work and build new things that work. On
+occasion I find something to build that no one else has thought of
+yet.
+
+I spend my "other" time reading, commenting and writing on history,
+political economics, privacy, and the technology evolution of human
+civilization. My "other other" time is spent playing tennis (table and
+"full court"), gardening and landscaping, and listening to music.
+
+Still on my to-do: [[https://www.alltrails.com/trail/us/california/onion-valley-kearsarge-pass-forrester-pass-shepherds-pass-backpacking-trip][Pack up Onion Valley over Kearsarge Pass]].
+
+** What I've Worked On
+
+Professional Highlights. See [[https://www.linkedin.com/in/rodmorison][LinkedIn]] for complete list
+
+- Principal Architect: https://www.aspiration.com/
+- CTO: http://www.slated.com
+- Principal Engineer: http://www.earthlinkbusiness.com/voice/
+- Director of Engineering: https://www.infostreet.com/
+- CTO: https://www.idealab.com/our_companies/show/all/desktop_tv
+- Dir R&D: https://www.mentor.com/tannereda/l-edit
+
+** Key Current/Recent Reads
+
+- [[https://mitpress.mit.edu/books/coding-democracy][Coding Democracy]]
+- [[https://reimaginingcapitalism.org/][Reimagining Capitalism]]
+- [[https://en.wikipedia.org/wiki/Team_of_Rivals][Team of Rivals]]
+- [[https://13bankers.com/][13 Bankers]]
+
+** Favorite New Tech
+
+- [[https://www.starlette.io/][Starlette]]: A Python async web microframework
+- [[https://hasura.io/][Hasura]]: An impressively performant and introspecting SQL to
+  GraphQL engine
+- [[https://reactjs.org/][React]]: Not so new, but now a winner, after the mess it was circa
+  2015
+
+(With those you could build a very nice web stack...is not a
+coincidence.)
+
+** I Want To...
+
+Build useful tools for humans. Really.
+
+** If I Could Know One Thing...
+
+Human civilization and our species had thrived---perhaps
+evolved---through the end of this millennium.
